@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+
+    <string name="home_icon_text">Home</string>
+    <string name="account_icon_text">Account</string>
+    <string name="favorite_icon_text">Favorite</string>
+    <string name="search_icon_text">Search</string>
+    <string name="settings_icon_text">Settings</string>
+
+    <string name="slogan_1">Enjoy learning..</string>
+    <string name="slogan_2">Take the lead !</string>
+    <string name="contact_us_header">Contact us:</string>
+    <string name="tel_number">650-555-5555</string>
+    <string name="web_address">https://www.udacity.com</string>
+    <string name="mailing_address">2465 Latham Street, Mountain View, CA 94043</string>
+
+
+</resources>

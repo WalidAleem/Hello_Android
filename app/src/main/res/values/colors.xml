@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02b3e4</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name = "status_bar_color_1">#455a64</color>
+
+    <color name = "status_bar_color_2">#37474f</color>
+
+    <color name = "status_bar_color_3">#263238</color>
+
+    <color name = "status_bar_color_4">#000000</color>
+
+
+
+    <color name = "status_bar_color_5">#303030</color>
+
+    <color name = "status_bar_color_6">#5c6858</color>
+
+    <color name = "status_bar_color_7">#212121</color>
+
+    <color name = "status_bar_color_8">#616161</color>
+
+    <color name = "white_color">#FFFFFF</color>
+
+    <color name = "blue_color">#0D47A1</color>
+
+
+
+
+
+
+
+
+</resources>
